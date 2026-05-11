@@ -14,19 +14,6 @@ This project explores animal outcomes, adoption behavior and shelter efficiency 
 
 ---
 
-## 📸 Dashboard Preview
-
-### 🏠 Homepage
-
-![Homepage](images/homepage.png)
-
-### 📌 Overview
-
-![Overview](images/overview.png)
-
-### 📈 Adoption Drivers Analysis
-
-![Adoption Drivers](images/adoption_drivers.png)
 
 ### 💡 Key Insights
 
@@ -157,14 +144,5 @@ The goal of this project was to:
 * Business Analysis
 * Interactive Reporting
 * Visual Analytics
-
----
-
-# 👨‍💻 Author
-
-## Edoardo Buono
-
-GitHub:
-https://github.com/EdoardoBuono
 
 ---
