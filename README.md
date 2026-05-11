@@ -96,25 +96,6 @@ Final analytical summary of the project.
 
 ---
 
-# 📷 Dashboard Preview
-
-## Homepage
-
-![Homepage](images/homepage.png)
-
-## Overview
-
-![Overview](images/overview.png)
-
-## Adoption Drivers Analysis
-
-![Adoption Drivers Analysis](images/adoption_drivers.png)
-
-## Key Insights
-
-![Key Insights](images/key_insights.png)
-
----
 
 # 📂 Dataset Information
 
