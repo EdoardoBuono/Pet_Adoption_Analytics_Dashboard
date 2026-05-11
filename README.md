@@ -39,7 +39,6 @@ The project combines storytelling, interactive navigation and business-oriented 
 * Pandas
 * Data Visualization
 * Data Analysis
-* GitHub
 
 ---
 
