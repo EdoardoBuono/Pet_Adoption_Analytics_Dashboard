@@ -12,12 +12,6 @@ Interactive Power BI dashboard focused on animal adoption trends, shelter perfor
 
 This project explores animal outcomes, adoption behavior and shelter efficiency through an interactive multi-page dashboard built with **Power BI**, **DAX** and **Python** for data preparation and analysis.
 
----
-
-
-### 💡 Key Insights
-
-![Key Insights](images/key_insights.png)
 
 ---
 
