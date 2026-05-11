@@ -1,10 +1,36 @@
-# Pet_Adoption_Analytics_Dashboard
-
 # 🐾 Pet Adoption Analytics Dashboard
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-FFB000?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2196F3?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 Interactive Power BI dashboard focused on animal adoption trends, shelter performance and adoption drivers.
 
 This project explores animal outcomes, adoption behavior and shelter efficiency through an interactive multi-page dashboard built with **Power BI**, **DAX** and **Python** for data preparation and analysis.
+
+---
+
+## 📸 Dashboard Preview
+
+### 🏠 Homepage
+
+![Homepage](images/homepage.png)
+
+### 📌 Overview
+
+![Overview](images/overview.png)
+
+### 📈 Adoption Drivers Analysis
+
+![Adoption Drivers](images/adoption_drivers.png)
+
+### 💡 Key Insights
+
+![Key Insights](images/key_insights.png)
 
 ---
 
@@ -26,13 +52,13 @@ The project combines storytelling, interactive navigation and business-oriented 
 
 # 🛠️ Tools & Technologies
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-FFB000?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-4CAF50?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-2196F3?style=for-the-badge)
-
+* Power BI
+* Python
+* DAX
+* Pandas
+* Data Visualization
+* Data Analysis
+* GitHub
 
 ---
 
@@ -95,7 +121,6 @@ Final analytical summary of the project.
 * Sterilization status may influence adoption patterns.
 
 ---
-
 
 # 📂 Dataset Information
 
