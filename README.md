@@ -6,7 +6,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-2196F3?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
 
 Interactive Power BI dashboard focused on animal adoption trends, shelter performance and adoption drivers.
 
